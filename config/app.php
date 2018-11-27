@@ -12,6 +12,8 @@ return [
     | any other location as required by the application or its packages.
     |
     */
+    'faker_locale' => 'zh_CN',
+
 
     'name' => env('APP_NAME', 'Laravel'),
 
